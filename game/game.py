@@ -6,6 +6,8 @@ class Game:
         self.board = Board()
         self.players = []
         self.current_player_index = 0
+        
+# Game class handles the drama between X and O 
 
     def setup_players(self):
         name1 = input("Enter Player 1 name: ")
