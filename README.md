@@ -4,10 +4,10 @@ A classic 2-player Tic Tac Toe game built with Python and designed using Object-
 
  Features
 
-- 3x3 Tic Tac Toe grid
-- Two-player turn-based system
-- Input validation and move legality check
-- Win condition detection (rows, columns, diagonals)
-- Detects and announces draw
+ 3x3 Tic Tac Toe grid
+ Two-player turn-based system
+ Input validation and move legality check
+ Win condition detection (rows, columns, diagonals)
+ Detects and announces draw
 
 
