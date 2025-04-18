@@ -1,0 +1,5 @@
+venv
+.venv
+.venv.local
+.venv.*
+game\__pycache__
